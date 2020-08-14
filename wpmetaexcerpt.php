@@ -9,6 +9,7 @@
  * Author URI:  https://github.com/jefechang
  * Text Domain: effecimetaexcerpt
  */
+defined( 'ABSPATH' ) or die ('No script kiddies please!');
 
 function effeci_metaexcerpt () {
 if ( is_single() ) {
